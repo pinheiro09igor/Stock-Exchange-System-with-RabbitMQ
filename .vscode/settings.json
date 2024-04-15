@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "libs/amqp-client-5.20.0.jar",
+        "libs/slf4j-api-1.7.36.jar",
+        "libs/logback-classic-1.5.3.jar"
+    ],
+}
