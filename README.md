@@ -20,8 +20,6 @@ Os requisitos do trabalho são:
 
 5. **Servidores diferentes**: O servidor do sistema deve ser disponibilizado em uma máquina diferente de localhost.
 
-6. **Execução em ambiente Linux**: O aplicativo deve funcionar nas máquinas Linux do laboratório de redes do curso de Engenharia de Software da PUC Minas.
-
 ## Descrição da Arquitetura
 
 - **Bolsa de Valores**: A parte da Bolsa de Valores gerencia as operações recebidas dos Brokers, armazena no livro de ofertas e publica atualizações e transações realizadas em tópicos RabbitMQ.
